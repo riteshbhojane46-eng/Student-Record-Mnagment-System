@@ -1,0 +1,50 @@
+[
+    {
+        "id": 103,
+        "name": "Vedang",
+        "age": 21,
+        "course": "JavaScript"
+    },
+    {
+        "id": 104,
+        "name": "Nitesh",
+        "age": 21,
+        "course": "SQL"
+    },
+    {
+        "id": 105,
+        "name": "Aniket",
+        "age": 21,
+        "course": "HTML"
+    },
+    {
+        "id": 106,
+        "name": "Shubham",
+        "age": 24,
+        "course": "Python Full Stack"
+    },
+    {
+        "id": 107,
+        "name": "Ganesh",
+        "age": 21,
+        "course": "Developer"
+    },
+    {
+        "id": 102,
+        "name": "sahil",
+        "age": 21,
+        "course": "java"
+    },
+    {
+        "id": 101,
+        "name": "Ritesh",
+        "age": 21,
+        "course": "python"
+    },
+    {
+        "id": 108,
+        "name": "sahyog",
+        "age": 21,
+        "course": "python"
+    }
+]
